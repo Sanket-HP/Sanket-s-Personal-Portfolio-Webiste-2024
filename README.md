@@ -16,13 +16,13 @@ To run **Portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/portfolio.git
+sudo git clone (https://sanket-hp.github.io/Sanket-s-Personal-Portfolio-Webiste-2024/)
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/portfolio.git
+git clone (https://sanket-hp.github.io/Sanket-s-Personal-Portfolio-Webiste-2024/)
 ```
 
 ### Contact
