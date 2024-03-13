@@ -1,0 +1,181 @@
+Sanket Patil - Software Developer From India
+
+
+
+#---------- HEADER ----------#
+
+Sanket More-Patil
+
+aria-label = Toggle Menu
+
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Experience
+Portfolio
+Skills
+Contact
+
+Download CV
+
+
+
+#---------- HERO ----------#
+
+alt = Sanket's Photo
+
+3
+Years of Success
+
+10+
+Projects Completed
+
+<ion-icon name="trophy"></ion-icon>
+
+alt = I'm developer from India
+
+Hello I'm
+
+Sanket More-Patil
+
+Software Engineer From India
+
+Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
+
+Get a Quote
+
+About Me
+
+
+
+#---------- ABOUT ----------#
+
+alt = Ethan's Photo
+
+alt = Ethan's Photo
+
+<ion-icon name="logo-css3"></ion-icon>
+<ion-icon name="logo-javascript"></ion-icon>
+<ion-icon name="logo-angular"></ion-icon>
+
+I'm a Developer
+
+I Develop Application that Help People
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatu epteur sint occaecat cupidatat
+
+Krnon proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis
+
+View Portfolio
+
+
+#---------- Experience ----------#
+
+Latest News
+
+Checkout My Recent Blogs
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+
+alt = Jim Morisson Says when the musics over turn off the light
+
+Web Development
+
+Jim Morisson Says when the musics over turn off the light
+
+
+
+
+#---------- PORTFOLIO ----------#
+
+Portfolio
+
+My Amazing Works
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+
+Youtube
+
+Web Application for Desiverse
+
+View Project 
+<ion-icon name="arrow-forward"></ion-icon>
+
+Vimeo
+
+Soundcloud
+
+Details
+
+
+
+#---------- SKILLS ----------#
+
+My Skills
+
+I Develop Skills Regularly
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+
+CSS
+95%
+
+React
+75%
+
+MongoDB
+90%
+
+Python
+70%
+
+PHP
+80%
+
+JavaScript
+75%
+
+
+
+#---------- CONTACT ----------#
+
+Don't be shy
+
+Drop Me a Line
+
+placeholder = Name
+
+placeholder = Email
+
+placeholder = Message
+
+Submit Message
+
+<ion-icon name="location"></ion-icon>
+Address
+At/Post-Pal, Pal, Tal-Bhudargad, Dist-Kolhapur, Maharashtra, India-416209
+
+<ion-icon name="mail"></ion-icon>
+Email
+sp3130016@gmail.com
+
+<ion-icon name="call"></ion-icon>
+Phone
++91-8767296910
+
+
+
+#---------- FOOTER ----------#
+
+&copy; 2024 Sanket Sarjerao More-Patil. All Rights Reseverd
+
+Terms & Condition 
+Privacy Policy
+
+
+
+#---------- BACK TO TOP ----------#
+
+BACK TOP
