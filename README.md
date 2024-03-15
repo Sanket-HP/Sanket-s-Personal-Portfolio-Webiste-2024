@@ -32,3 +32,4 @@ If you want to contact with me you can reach me at [Linkedin](https://www.linked
 ### License
 
 This project is **free to use** and does not contains any license.
+<footer>@ Sanket Sarjerao More-Patil</footer>
