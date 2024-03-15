@@ -436,6 +436,14 @@ body {
   font-size: 1.6rem;
 }
 
+button {
+  background-color: orange;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
 
 
 
