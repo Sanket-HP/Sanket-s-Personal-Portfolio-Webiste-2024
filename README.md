@@ -27,7 +27,7 @@ git clone (https://sanket-hp.github.io/Sanket-s-Personal-Portfolio-Webiste-2024/
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/sanket-more-patil-3149a9255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
 ### License
 
