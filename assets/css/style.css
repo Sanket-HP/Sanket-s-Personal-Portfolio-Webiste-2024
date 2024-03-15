@@ -436,7 +436,7 @@ body {
   font-size: 1.6rem;
 }
 
-button {
+.portfolio .button {
   background-color: orange;
   color: white;
   padding: 10px 20px;
