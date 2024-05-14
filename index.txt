@@ -18,7 +18,7 @@ Portfolio
 Skills
 Contact
 
-Download CV
+Certifications
 
 
 
@@ -26,10 +26,10 @@ Download CV
 
 alt = Sanket's Photo
 
-3
-Years of Success
+75+
+Certifications
 
-10+
+40+
 Projects Completed
 
 <ion-icon name="trophy"></ion-icon>
